@@ -17,6 +17,12 @@ const assignments = [
         previewLink: "#",
         views: "1.2K"
     },
+    {
+        title: "simple-ecommerce",
+        description: "A basic e-commerce website showcasing 10 products with detailed descriptions, pricing, ratings, and product images. Includes sorting functionality for price and rating.",
+        previewLink: "https://abdulhaseeb200.github.io/simple-ecommerce/",
+        views: "1.2K"
+    },
     // Add more assignments here
 ];
 
