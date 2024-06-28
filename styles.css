@@ -31,6 +31,8 @@ h1 {
     padding: 20px;
     width: 250px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+
 }
 
 .assignment h2 {
