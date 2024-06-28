@@ -20,6 +20,7 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    cursor: pointer;
 }
 
 .assignment {
